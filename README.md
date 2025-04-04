@@ -29,7 +29,7 @@ Below is the summary of the CNN layers:
 
 ---
 
-##Performace Measure
+## Performace Measure
 
 1.**Precision**:0.9907131398947655
 
