@@ -8,7 +8,7 @@ This repository contains a Convolutional Neural Network (CNN) model to recognize
 - **Name**: MNIST
 - **Size**: 70,000 images (60,000 for training, 10,000 for testing) 
 - **Image Shape**: 28×28 pixels, grayscale
-- **Classes**: 10 (digits from 0 to 9
+- **Classes**: 10 (digits from 0 to 9)
 
 
 ---
