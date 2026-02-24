@@ -1,6 +1,6 @@
 # Digit Recognition using CNN
 
-This repository contains a Convolutional Neural Network (CNN) model to recognize handwritten digits. The model achieves high accuracy and strong performance metrics on the test set.
+This repository contains a Convolutional Neural Network (CNN) model to recognize handwritten digits. The model achieves high accuracy and strong performance metrics on the test 
 
 ---
 
